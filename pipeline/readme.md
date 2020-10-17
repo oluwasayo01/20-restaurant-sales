@@ -4,4 +4,5 @@ In case the code breaks in the first run within your kubeflow cluster, try to ru
 !pip install pandas scikit-learn --user
 ```
 
-Restart  the kernel then run the notebook again.
+Restart  the kernel then run the notebook again and everything should work.
+A link to a running experiment is present in the last cell in the notebook.
